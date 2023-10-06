@@ -1,0 +1,70 @@
+
+@import "./../../../../variables.scss";
+
+.banner{
+    min-height: 100vh;
+    
+    .container{
+        display: table;
+        height: 100vh;
+
+        .section-box-banner{
+            display: table-cell;
+            vertical-align: middle;
+
+            .content{
+                margin-top: 98px;
+            }
+
+            h1{
+    
+                color: #6E07F3;
+                margin: 0 0 20px 3px;
+                font-size: 18px;
+                font-weight: 700;
+                font-family: $Europa;
+            }
+
+            h2 {
+                font-weight: 700;
+                font-size: 80px;
+                line-height: 1.1;
+                margin: 0;
+                font-family: $Eurostile;
+            }
+
+            h3 {
+                font-weight: 500;
+                font-size: 40px;
+                line-height: 1.1;
+                margin: 0;
+                font-family: $Europa;
+            }
+
+            h2{
+                color: $LightestSlate;
+            }
+            h3{  
+                color: $Slate;
+            }
+
+            .banner-description{
+                margin-bottom: 70px;
+            }
+
+            p{
+                font-family: $Europa;
+                max-width: 600px;
+            }
+
+            .div-btn-banner{
+                height: 43px;
+            }
+        }
+
+       
+    }    
+}
+
+
+
