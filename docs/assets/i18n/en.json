@@ -1,0 +1,151 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "Resume-Paresh.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I design and code beautifully simple things, and I love what I do.",
+    "Banner.Description1": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "I am a versatile <span class='underline'>UX designer and front-end developer</span>, dedicated to crafting <span class='underline'>engaging</span> and <span class='underline'>user-centric</span> digital experiences. With <span class='underline'>6 years of hands-on experience</span>, I am deeply committed to continuous learning and growth, striving to deliver top-notch solutions in the ever-evolving landscape of user experience and front-end development.",
+        "In my journey as a <span class='underline'>UX designer</span>, I have delved into the intricacies of <span class='underline'>user behavior, conducting in-depth research and usability testing</span>. This knowledge allows me to create intuitive and aesthetically pleasing interfaces that resonate with users. I am proficient in utilizing design tools like <span class='underline'>Adobe XD, Sketch, and Figma</span> to translate ideas into visually compelling wireframes and prototypes.",
+        "As a <span class='underline'>front-end developer</span>, I specialize in <span class='underline'>HTML, CSS, and JavaScript</span>, employing these technologies to build <span class='underline'>interactive and responsive web applications</span>. I am well-versed in popular front-end frameworks such as <span class='underline'>Angular</span>, enabling me to create dynamic user interfaces that seamlessly adapt to various devices and screen sizes.",
+        "Technologies I have mastered include, but are not limited to:"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "CDI",
+            "Title": "UX Designer/Frontend Developer",
+            "Date": "November 2020 - June 2023",
+            "Description": [
+                "Delivered high-quality, robust design and production code, serving clients such as NFL, MLB, NHL, IHG One Rewards, Mastercard, F1, UFC and more.",
+                "Led the redesign of IHG's auctions marketplace, utilizing Figma, HTML, SCSS, and JavaScript, resulting in a 30% increase in user engagement. ",
+                "Spearheaded the end-to-end creation of UFC Collectibles, employing Bootstrap and Velocity template technologies, and achieved an outstanding 150% increase in sales compared to forecasted figures.",
+                "Implemented MobileFirst design principles, leading to a 45% increase in mobile traffic and a 20% rise in user satisfaction among mobile users.",
+                "Directed and mentored a team of 5 designers in the development and implementation of high-quality user interfaces for various ongoing projects, ensuring alignment with industry best practices and standards."
+                
+            ]
+        },
+        {
+            "Tab": "Fingertips",
+            "Title": "Web UI Developer",
+            "Date": "July 2019 - May 2020",
+            "Description": [
+              "Led the creation of new designs for web pages, aligning designs with brand guidelines, resulting in a 40% increase in user engagement using Figma.",
+              "Assisted UX Researchers in conducting comprehensive product evaluations and collected valuable user feedback, and ensuring user perspectives were integrated effectively into the design process."
+            ]
+        },
+        {
+            "Tab": "Cetaris",
+            "Title": "Frontend developer",
+            "Date": "September 2017 - May 2019",
+            "Description": [
+              "Developed and maintained Client-Side Application for Enterprise Asset Management and Fleet Maintenance Solution in an Agile Scrum environment, leading to a 100% increase in sales activities.",
+              "Organized and optimized code, achieving unit test coverage of over 95% for all TypeScript and HTML code.",
+              "Designed a token-based authentication system using JWT, ensuring that each server request is accompanied by a signed token verified for authenticity.",
+              "Implemented Application state management using Redux with Angular (NgRx) for persistent state across browsers.",
+              "Consumed RESTful web services and parsed JSON media types in Angular 6, 7, and 8."
+            ]
+        },
+        {
+            "Tab": "Bhavya Tech",
+            "Title": "Web Designer",
+            "Date": "September 2013 - August 2015",
+            "Description": [
+                "Utilized industry-standard design tools such as Adobe Photoshop and Sketch to create high-fidelity mockups and prototypes, streamlining the design process and reducing design iterations by 20%.",
+                "Developed responsive websites using HTML, CSS, and JavaScript, ensuring seamless user experiences across all devices and platforms.",
+                "Worked with CMS platforms like WordPress and Magento, customizing templates to improve site functionality and enhance user experience, resulting in a 40% increase in content engagement."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "IHG One Rewards",
+            "Description": "I spearheaded the complete redesign of IHG One Rewards Marketplace using Figma for design and HTML, SCSS, Velocity templates, and JavaScript for development. My expertise ensured a seamless transition from concept to a fully functional website, showcasing my ability to blend creativity with technical proficiency effectively.",
+            "imgs": [
+                "assets/images/IHG/IHG1.png"
+            ],
+            "demoLink": "https://auction-inthgpointslive1.oc1.servicecdi.com/",
+            "Technologies": ["Figma", "HTML", "SCSS", "Velocity Template", "JavaScript"]
+        },
+        {
+            "Title": "UFC Collectibles",
+            "Description": "I orchestrated the full redesign of the UFC Collectibles website, employing Figma for design and Bootstrap, HTML, and Velocity templates for development. This project exemplifies my skill in harmonizing design ingenuity with technical expertise to deliver exceptional digital experiences.",
+            "imgs": [
+                "assets/images/UFC/UFC01.png",
+                "assets/images/UFC/UFC02.png",
+                "assets/images/UFC/UFC03.png"
+            ],
+            "demoLink": "https://auction.ufccollectibles.com/",
+            "Technologies": ["Bootstrap", "Velocity Template", "HTML", "Figma", "Miro"]
+        },
+        {
+            "Title": "Real Estate Login Page",
+            "Description": "As a passionate Web UI designer, I had the incredible opportunity to lead a complete overhaul of a real estate company's login page. The challenge? Transforming a mundane login experience into an inviting and efficient entry point for users. ",
+            "imgs": [
+                "assets/images/estate/login-ui.png"
+            ],
+            "demoLink": "https://dribbble.com/shots/22761034-Real-Estate-Login-UI-Inspiration",
+            "Technologies": ["Adobe XD", "Figma", "HTML", "SCSS", "Interaction Design"]
+        },
+        {
+            "Title": "F1 Authentics",
+            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
+            "imgs": ["assets/images/F1/F1.png"],
+            "ghLink": "https://github.com/andresjosehr/hands-game",
+            "demoLink": "https://auctions.f1authentics.com/",
+            "Technologies": ["MobileFirst", "HTML5", "SCSS", "JavaScript"]
+        },
+        {
+            "Title": "Cetaris Approve",
+            "Description": "I created and managed the Cetaris Approve app for big clients like Walmart, Swift, and Loblaws. I used Angular and the company's colors to create it. This work demonstrates my skill in making user-friendly apps for important clients while keeping things visually appealing.",
+            "imgs": ["assets/images/Cetaris/Approve_PO.svg"],
+            "demoLink": "https://cetaris.com/purchase-order-approval-app",
+            "Technologies": ["Angular", "Bootstrap", "SCSS", "REST API"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+
+
+}
